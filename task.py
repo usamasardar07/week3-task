@@ -30,7 +30,7 @@ def CostSlab3():
 
 
 def display():
-    print("My Student ID is ABC101")
+    print("My Student ID is 21mdbcs126")
     print("Press 1 to display Slab 1 & 2 Bills")
     print("Press 2 to display Slab 3 Bills")
     print("Press any other key to Exit")
